@@ -1,5 +1,4 @@
-TerraLens Application Libraries C++
-
+# TerraLens Application Libraries C++ #
 
 ### TLInput ###
 For handling user input in a TerraLens application.

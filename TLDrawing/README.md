@@ -1,4 +1,4 @@
-TerraLens Drawing
+# TerraLens Drawing #
 
 Classes for drawing shapes in a TerraLens application.
 The DrawSimpleInput class is used for adding points to one of the shape model classes (MarkerModel, PolygonModel, PolylineModel). Clicking a point on the screen will add a new point to current shape.

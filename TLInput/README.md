@@ -1,4 +1,4 @@
-TerraLens Input
+# TerraLens Input #
 
 This is basic library for integrating mouse and keyboard input in a GUI and OS agnostic manner.
 
