@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/ViewportItem2D.qml</file>
+        <file>qml/qmldir</file>
+        <file>qml/ViewportItem3D.qml</file>
+    </qresource>
+</RCC>

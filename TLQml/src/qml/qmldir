@@ -1,0 +1,3 @@
+module qml.viewPort
+ViewportItem2D 1.0 ViewportItem2D.qml
+ViewportItem3D 1.0 ViewportItem3D.qml
