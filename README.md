@@ -12,3 +12,8 @@ Classes for integrating a TerraLens viewport with a Qt widget.
 ### TLQml ###
 Classes for integrating a TerraLens viewport with a QML item.
 
+## License
+
+Copyright (c) Kongsberg Geospatial Ltd. All rights reserved.
+
+Licensed under the [MIT](LICENSE) license.
